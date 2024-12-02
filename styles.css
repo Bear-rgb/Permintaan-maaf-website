@@ -1,0 +1,46 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #fbeffb;
+    color: #333;
+}
+header {
+    text-align: center;
+    padding: 2em 1em;
+    background-color: #ff6b6b;
+    color: white;
+}
+header h1 {
+    font-size: 2.5em;
+}
+header p {
+    font-size: 1.2em;
+}
+main {
+    padding: 1em;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.apology-letter, .memories {
+    margin-bottom: 2em;
+}
+.memories img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    border: 5px solid #ff6b6b;
+    border-radius: 10px;
+}
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #333;
+    color: white;
+    margin-top: 2em;
+}
